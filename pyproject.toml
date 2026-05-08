@@ -1,0 +1,6 @@
+[project]
+name = "markdown-search"
+version = "1.0.0"
+description = "TF-IDF / BM25 search engine for markdown files"
+requires-python = ">=3.11"
+dependencies = ["nltk>=3.9"]
